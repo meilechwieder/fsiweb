@@ -1,0 +1,67 @@
+[
+  {
+    "name": "Commercial",
+    "p": [
+      "With decades of success in commercial construction, FSI will transform your vision into the structure of your dream efficiently and professionally. Our specialty is being your one-stop solution for all interior and exterior construction needs. It’s a commercial building and a personal experience.",
+      "With over 100 dedicated employees on our team, we will successfully complete your project on time, every time. From the moment we receive your building plans until project completion; our team members are completely committed to you and your project. Experience the serenity of knowing that we’re here to answer your question and concerns every step of the way. Our personal assistance will make all the difference when it comes to ensuring your peace-of-mind.",
+      "<a class=\"other-kind\" href=\"/#portfolio\">View our gallery</a> of commercial projects and join the happy FSI family. After all, you can’t beat perfection in construction. "
+    ],
+    "bulletPoints": [
+      "Metal Stud Framing",
+      "Wood Framing",
+      "Drywall",
+      "Decorative drywall",
+      "Soundproofing solutions",
+      "Energy efficient insulation ",
+      "Acoustical ceilings",
+      "Commercial doors, skylights and windows installation"
+    ],
+    "smallIcon":"commercial.png"
+  },
+  {
+    "name": "Residential",
+    "p": [
+      "It’s not every day that you build your dream home, but it is every day that you live in it. Our team of residential framing and contracting experts will plan your home with supreme care and attention to detail for a seamless and timely process. Continue dreaming, because your home is under Five Star care!",
+      "From the moment we receive your building plans until project completion; our team members are completely committed to you and your project. Experience the serenity of knowing that we’re here to answer your question and concerns every step of the way. Our personal assistance will make all the difference when it comes to ensuring your peace-of-mind.",
+      "Transform your everyday home into luxurious living with our endless options of ceilings, moldings, archways to create your dream vision. ",
+      "<a class=\"other-kind\" href=\"/#portfolio\">View our gallery</a> of residential homes, and join our happy FSI family. After all, you can’t beat perfection in construction. "
+    ],
+    "bulletPoints": [
+      "Wood Framing",
+      "Drywall",
+      "Decorative Drywall including arches, custom ceilings and more",
+      "Soundproofing Solutions"
+    ],
+    "smallIcon":"residential.png"
+  },
+  {
+    "name": "Industrial",
+    "p": [
+      "A workplace has to work for your needs. Warehouses, manufacturing plants, storage spaces – the needs are as varied as the industries. Regardless of your industry, we’re here to get you to work as soon as possible with our perfect and specific industrial solutions.",
+      "We have a special unit for industrial construction. From the moment we receive your building plans until project completion; our team members are completely committed to you and your project. Our personal assistance makes all the difference when it comes to ensuring your peace-of-mind.<br>The many options of industrial ceilings, floorings, insulation and drywall options will ensure that all your company’s needs are met. And more.",
+      "Experience the serenity of knowing that we’re here to answer your question and concerns every step of the way. ",
+      "<a class=\"other-kind\" href=\"/#portfolio\"> View our gallery</a> of industrial projects and join the happy FSI family. After all, you can’t beat perfection in construction. "
+    ],
+    "bulletPoints": [
+      "Metal Stud Framing",
+      "Wood Framing",
+      "Drywall",
+      "Soundproofing solutions",
+      "Energy efficient insulation ",
+      "Acoustical ceilings",
+      "Commercial doors, skylights and windows installation"
+    ],
+    "smallIcon":"industrial.png"
+  },
+  {
+    "name": "Fit-Outs",
+    "p": [
+      "It’s an all-in-one solution for converting space or outfitting real estate for an incoming tenant. All it takes is one FSI consultation and it’s as good as done. We make it more than just suitable, we make it perfect. After all, tenant satisfaction is the number one priority for your business.",
+      "From the moment we receive your building plans until project completion; our team members are completely committed to you and your project. Our specialized Fit-Out crew has experience with every type of fit-out possible. Whether you are looking for basics or luxury, it’s FSI who’ll make it happen. On time – every time. Experience the serenity knowing that we’re here to answer your question and concerns every step of the way.",
+
+      "<a class=\"other-kind\" href=\"/#portfolio\">View our gallery</a>  of fit-outs and join the happy FSI family. After all, you can’t beat perfection in construction. "
+    ],
+    "bulletPoints": [],
+    "smallIcon":"fit-outs.png"
+  }
+]

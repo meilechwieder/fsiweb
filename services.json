@@ -1,0 +1,55 @@
+[
+    {
+      "name":"Metal Stud Framing",
+      "description":["FSI is at the helm of the Metal Stud Framing industry. With countless commercial projects in our portfolio, we have an unmatched line of supplies for your commercial grade structural framing needs. At the initial consultation, we’ll guide you in choosing the strongest and most cost-effective option."],
+      "listItems":[
+        "Interior and Exterior Framing",
+        "Curtain Wall Construction",
+        "Heavy and Light Gauge Steel",
+        "Roof Trusses",
+        "Metal framing for multi-story structures"
+      ],
+      "brands":[],
+      "imgFileName":"stud_framing.jpg"
+    },
+    {
+      "name":"Wood framing",
+      "description":["Wood framing is the most widely used framing in modern construction. It’s durable, economical and can be completed in record time. Our team is comprised of professionals who specialize in wood framing. It’s your preferred choice for residential construction and is often used in commercial building along with metal stud framing. We now offer both services to ensure that one phone call gets your dream construction project going."],
+      "imgFileName":"solutions.jpg"
+    },
+    {
+      "name":" Acoustical Ceilings and Ceiling Systems",
+      "description":["Our acoustical ceilings and ceiling systems are truly something to look up to! We excel in building custom acoustical ceilings for every type of structure.  From functional acoustics to decorative ceilings and ceiling systems, we do it all, including domes, curves, modern geometrical and contemporary patterns of all sizes.",
+      "We offer our services for new and old constructions, and we assist with every aspect of the remodeling operation to ensure a new life for your old building.  "
+    ],
+    "imgFileName":"ceilings.jpg",
+    "brands":[]
+    },
+    {
+      "name":"Soundproofing Solutions",
+      "description":["Sound passes through the strongest of barriers. That is, until it’s FSI in charge. With cutting-edge innovations in the soundproofing industry, we’ll challenge the sound and guide you with the many options available. Choosing the right soundproofing solution is foolproof at FSI. We have solutions for different types of sounds such as vibrations, booms, voices, music and more.","Find out which soundproofing solution works for you by consulting our team."],
+      "imgFileName":"solutions.jpg"
+    },
+    {
+      "name":"Commercial Installation of Doors, Windows and Skylights",
+      "description":["Install it once, install it well. Your doors, windows and skylights allow the sunrays to brighten a room and keep the elements out. We work with the leaders in commercial supplies and help you choose quality products to enhance the aesthetics of your building while making the most of nature without compromising on strength and safety.","   With our penchant for quality, trust us when it comes to hardware installation, it’s all about the quality and know-how of the material and mechanisms, and with two decades of experience, you deserve to benefit from our expertise.     "],
+      "imgFileName":"installation.jpg"
+    }
+    ,
+    {
+      "name":"Drywall and Spackle",
+      "description":["With thousands boards of sheetrock installed over the past two decades, FSI has earned a name as the sheetrock gurus in the tri-state. Our claim to fame wasn’t earned in vain. We go great lengths to ensure that your drywall and spackle meet our smooth standards. Whether it’s winterizing construction sites to prevent cracking or ensuring temperature control for a perfect finish, trust the gurus with the building blocks of your project."],
+      "imgFileName":"drywall.jpg"
+    },
+    {
+      "name":"Designer Drywall",
+      "description":["Transform your everyday home or commercial space into luxurious living with our endless options of designer drywall. Our team of designers will customize your architectural design and create a work of art to enhance your space with the latest in interior design. FSI is legendary for eye-catching ceilings, innovative archways and molding with the latest style and old-time craftsmanship. "],
+      "imgFileName":"drywall.jpg"
+    },
+    {
+      "name":"Insulation",
+      "description":["Proper thermal insulation is one of the most valuable assets to every property owner. Losing heat or cold due to air leakages adds stress on the HVAC system and raises energy costs for the property. Our thermal systems are designed to seal your constructions to keep you warm for generations. Because no two homes are alike, we work with various systems to achieve the same result – perfection! "]
+        ,"imgFileName":"installation.jpg"
+    }
+  
+  ]
