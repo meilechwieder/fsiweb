@@ -77,7 +77,7 @@
       <div class="copyright">
         &copy; Copyright <strong><span>FSI Interiors Inc</span></strong>. All Rights Reserved
       </div>
-      <div class="credits">
+      <div class="credits">Powered By <a href="https://wiederand.co">Wieder & Co</a> 
       </div>
     </div>
   </footer><!-- End Footer -->
