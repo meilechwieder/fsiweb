@@ -268,7 +268,7 @@
 
 
   <!-- ======= Clients Section ======= -->
-  <div class="section-title" style="padding-bottom: 21px;">
+  <!-- <div class="section-title" style="padding-bottom: 21px;">
     <h3><span class="pulled" style="letter-spacing: 10px; margin-bottom:21px">Trusted By</span></h3>
   </div>
   <section id="clients" class="clients section-bg">
@@ -305,7 +305,7 @@
       </div>
 
     </div>
-  </section><!-- End Clients Section -->
+  </section>End Clients Section -->
 
 
   <div class="container" data-aos="fade-up">
