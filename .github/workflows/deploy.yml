@@ -1,0 +1,29 @@
+name: Deploy
+on:
+  push:
+    branches: [ "master" ]
+
+
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node-version: [14.0]
+    steps:
+      - uses: a7ul/tar-action@v1.1.0
+        with:
+          command: c
+          cwd: "./"
+          files: |
+           /
+          outPath: deploy.tar
+  
+      - name: Deploy App to Caprover
+        uses: caprover/deploy-from-github@v1.0.1
+        with:
+          server: '${{ secrets.CAPROVER_SERVER }}'
+          app: '${{ secrets.APP_NAME }}'
+          token: '${{ secrets.APP_TOKEN }}'
+          
