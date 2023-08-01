@@ -19,6 +19,7 @@
       });
     } catch (err) {
       console.log(err.name, err.message);
+      alert(err.name, err.message)
     }
   };
   
@@ -30,6 +31,8 @@
       'Nev you up!'
     );
   });  
+}else{
+  alert('can share')
 }
 </script>
     
