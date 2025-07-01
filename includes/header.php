@@ -110,7 +110,7 @@ return array_values(array_filter($data['items'],function($e) use($id){
             <li><a class="nav-link scrollto" href="#services">Services</a></li>
             <li><a class="nav-link scrollto " href="/gallery.php">Gallery</a></li>
             <li><a class="nav-link scrollto " href="/projects.php">Projects</a></li>
-            <li><a class="nav-link scrollto " href="https://fivestarinteriors.herokuapp.com">Login</a></li>
+            <li><a class="nav-link scrollto " href="https://fsi.wiedco.app">Login</a></li>
             <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
           <?php }else{?>
             <li><a class="nav-link scrollto" href="/#hero">Home</a></li>
@@ -118,7 +118,7 @@ return array_values(array_filter($data['items'],function($e) use($id){
             <li><a class="nav-link scrollto <?php echo strpos($path,'service')?'active':'' ; ?>" href="/#services">Services</a></li>
             <li><a class="nav-link scrollto <?php echo strpos($path,'gallery')?'active':'' ; ?>" href="/gallery.php">Gallery</a></li>
             <li><a class="nav-link scrollto <?php echo strpos($path,'projects')?'active':'' ; ?>" href="/projects.php">Projects</a></li>
-            <li><a class="nav-link scrollto " href="https://fivestarinteriors.herokuapp.com">Login</a></li>
+            <li><a class="nav-link scrollto " href="https://fsi.wiedco.app">Login</a></li>
             <li><a class="nav-link scrollto" href="/#contact">Contact</a></li>
           <?php }?>
         </ul>

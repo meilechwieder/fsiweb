@@ -39,7 +39,7 @@
               <li><i class="bx bx-chevron-right"></i> <a href="<?php echo $path!=='/' ? '/':''; ?>#services">Services</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="/gallery.php">Gallery</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="/projects.php">Projects</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="https://fivestarinteriors.herokuapp.com">Login</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="https://fsi.wiedco.app">Login</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="<?php echo $path!=='/' ? '/':''; ?>#contact">Contact</a></li>
             </ul>
           </div>
