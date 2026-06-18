@@ -22,9 +22,9 @@
           <div class="col-lg-3 col-md-6 footer-contact">
             <img loading="lazy" src="assets/img/logo 2.webp" alt="" style="max-height: 64px;    display: block;    margin-bottom: 24px;">
             <p>
-              711 Executive Blvd # W, 
+             41 W Church Street
  <br>
- Valley Cottage, NY 10989<br>
+Spring Valley, NY 10977<br>
               United States <br><br>
               <strong>Phone:</strong> (845) 268-9100<br>
               <strong>Email:</strong> info@fsiinteriors.com<br>

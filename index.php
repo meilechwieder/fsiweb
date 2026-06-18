@@ -585,7 +585,7 @@
           <div class="info-box mb-4">
             <i class="bx bx-map"></i>
             <h3>Our Address</h3>
-            <p>711 Executive Blvd # W, Valley Cottage, NY 10989
+            <p>41 W Church Street, Spring Valley, NY 10977
             </p>
           </div>
         </div>
