@@ -611,7 +611,7 @@
       <div class="row" data-aos="fade-up" data-aos-delay="100">
 
         <div class="col-lg-6 ">
-          <iframe class="mb-4 mb-lg-0" data-src="https://www.google.com/maps/embed/v1/place?key=AIzaSyCL3KRAut4ft_AfA1IvGk6uRRtjnfLevC0&q=Five+Star+Interiors+Inc" frameborder="0" style="border:0; width: 100%; height: 384px;" allowfullscreen></iframe>
+          <iframe class="mb-4 mb-lg-0" data-src="https://www.google.com/maps/embed/v1/place?key=AIzaSyCL3KRAut4ft_AfA1IvGk6uRRtjnfLevC0&q=Five+Star+Interiors+Inc+Spring+Valley+NY" frameborder="0" style="border:0; width: 100%; height: 384px;" allowfullscreen></iframe>
         </div>
         <script type="text/javascript">
           function load_iframes() {
